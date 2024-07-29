@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Task Buddy</string>
+    <string name="your_ultimate_task_management_nsolution">Your ultimate task management\nsolution.</string>
+    <string name="welcome_to_task_buddy">Welcome to Task Buddy</string>
+    <string name="task_buddy">Task Buddy</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="user_name">User Name</string>
+    <string name="create_an_account_to_get_started">Create an account to get started</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an Account? <u>Log In</u></string>
+    <string name="term_and_services"><u>Term and Services</u></string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account? <u>Sign Up</u></string>
+    <string name="login">LOGIN</string>
+    <string name="no_task_available_add_your_first_task">No Task Available, Add Your First Task !</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="complete_task">Complete Task</string>
+    <string name="set_task_due_time">Set Task Due Time</string>
+    <string name="edit_your_task">Edit Your Task</string>
+    <string name="edit_enter_task">Edit Enter Task</string>
+    <string name="enter_task_name">Enter Task Name</string>
+    <string name="edit_task_details">Edit Task Details</string>
+    <string name="enter_task_details">Enter Task Details</string>
+    <string name="add_task">Add Task</string>
+    <string name="save_edit_task">Save Edit Task</string>
+    <string name="complete">Complete</string>
+    <string name="logout">Logout</string>
+</resources>

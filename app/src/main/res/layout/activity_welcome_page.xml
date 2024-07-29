@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_button_bg"
+    android:backgroundTint="#FBFBFB"
+    tools:context=".WelcomePage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FBFBFB"
+        android:orientation="vertical"
+        android:paddingStart="15sp"
+        android:paddingEnd="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="#FBFBFB"
+            android:fontFamily="@font/roboto_mono_medium"
+            android:text="@string/welcome_to_task_buddy"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="#FBFBFB"
+            android:fontFamily="@font/roboto_mono_medium"
+            android:text="@string/your_ultimate_task_management_nsolution"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="#FF0000"
+            android:fontFamily="@font/roboto_mono_medium"
+            android:onClick="openSignUp"
+            android:text="SIGN UP"
+            android:textSize="15sp"
+            app:cornerRadius="0sp"
+            app:strokeColor="#000000"
+            app:strokeWidth="2sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:fontFamily="@font/roboto_mono_medium"
+            android:onClick="openLogIn"
+            android:text="LOG IN"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            app:cornerRadius="0sp"
+            app:strokeColor="#000000"
+            app:strokeWidth="2sp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
