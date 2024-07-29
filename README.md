@@ -139,3 +139,19 @@ dependencies {
 - Click on Taks Button and select Make Complete Option
 ## Search Functionality
 - Use the SearchView at the top of the screen to filter tasks by name or description in real-time.
+
+## Images
+![Screenshot_20240729-161020](https://github.com/user-attachments/assets/9080532c-ff61-44eb-b62e-ffde0d60e264)
+![Screenshot_20240729-161023](https://github.com/user-attachments/assets/b654ffa2-934b-4a0c-8aed-cb3c5472fe50)
+![Screenshot_20240729-161211](https://github.com/user-attachments/assets/0e44df27-5f53-4eb1-95d6-35243ead756b)
+![Screenshot_20240729-161110](https://github.com/user-attachments/assets/34cf5223-7a6b-4491-b352-a82f2718d866)
+![Screenshot_20240729-161120](https://github.com/user-attachments/assets/a12b97e0-9dbd-43bf-97c6-45a6bab1aa80)
+![Screenshot_20240729-161128](https://github.com/user-attachments/assets/8bc09744-1a99-42e9-b364-7c824261cba4)
+![Screenshot_20240729-161132](https://github.com/user-attachments/assets/aad66e36-ddb6-4d83-b428-d650a1801333)
+![Screenshot_20240729-161137](https://github.com/user-attachments/assets/2f99dd1d-e431-49d3-a0f0-28db690d27ea)
+![Screenshot_20240729-161142](https://github.com/user-attachments/assets/05c9d80f-6bbc-460c-bdf8-aa15b1e6825d)
+![Screenshot_20240729-161207](https://github.com/user-attachments/assets/0244a4e0-ae5e-4768-9dea-4ab61352de47)
+
+
+
+
